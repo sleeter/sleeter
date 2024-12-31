@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently studying at ITMO University<br>I participate in various hackathons, improve my skills<br>I am trying to find an internship.
+Avito intern<br>I am currently studying at ITMO University<br>I participate in various hackathons, improve my skills<br>
 
 
 # 💻 Tech Stack:
