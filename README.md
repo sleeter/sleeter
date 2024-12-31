@@ -1,5 +1,5 @@
 # 💫 About Me:
-Avito intern<br>I am currently studying at ITMO University<br>I participate in various hackathons, improve my skills<br>
+Avito backend intern<br>I am currently studying at ITMO University<br>I participate in various hackathons, improve my skills<br>
 
 
 # 💻 Tech Stack:
